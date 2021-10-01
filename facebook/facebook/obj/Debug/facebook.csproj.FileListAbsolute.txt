@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\facebook\facebook\bin\Debug\facebook.exe.config
+C:\Users\HP\source\repos\facebook\facebook\bin\Debug\facebook.exe
+C:\Users\HP\source\repos\facebook\facebook\bin\Debug\facebook.pdb
+C:\Users\HP\source\repos\facebook\facebook\obj\Debug\facebook.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\facebook\facebook\obj\Debug\facebook.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\facebook\facebook\obj\Debug\facebook.exe
+C:\Users\HP\source\repos\facebook\facebook\obj\Debug\facebook.pdb
